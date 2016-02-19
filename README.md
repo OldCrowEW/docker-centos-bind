@@ -1,5 +1,17 @@
 ## Quickstart
 
+Clone this repo:
+
+```bash
+git clone git@github.com:OldCrowEW/docker-centos-bind.git
+```
+
+Build docker image:
+
+```bash
+docker build -t oldcrowew/docker-centos-bind .
+```
+
 Start BIND using:
 
 ```bash
