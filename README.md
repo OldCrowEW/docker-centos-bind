@@ -12,6 +12,14 @@ Build docker image:
 docker build -t oldcrowew/docker-centos-bind .
 ```
 
+or
+
+Docker pull command:
+
+```bash
+docker pull oldcrowew/docker-centos-bind
+```
+
 Start BIND using:
 
 ```bash
